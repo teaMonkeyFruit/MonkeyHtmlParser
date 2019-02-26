@@ -1,6 +1,11 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
+        <PackageId>MonkeyHtmlParser</PackageId>
+        <Version>1.0.1</Version>
+        <Authors>teaMonkeyFruit</Authors>
+        <Company>Monkey_Business</Company>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <TargetFramework>netstandard2.0</TargetFramework>
     </PropertyGroup>
 

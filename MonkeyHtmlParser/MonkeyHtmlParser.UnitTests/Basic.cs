@@ -38,5 +38,16 @@ namespace MonkeyHtmlParser.UnitTests
             node.SearchPhrase.Should().Be(searchPhrase);
             node.Url.Should().Be(_url);
         }
+        
+        [Fact]
+        public void NoNodes()
+        {
+            var webPageParser = new WebPageParser(_url);
+            var searchPhrase = "frisjdnviuejksmfnhks";
+
+            var nodes = webPageParser.GetNodes(searchPhrase);
+
+            nodes.Should().BeEmpty();
+        }
     }
 }

@@ -3472,7 +3472,7 @@
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
       "projectUniqueName": "/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser.csproj",
       "projectName": "MonkeyHtmlParser",
@@ -3484,7 +3484,7 @@
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/carsons/.config/NuGet/NuGet.Config"
+        "/Users/carsons/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

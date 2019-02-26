@@ -26,6 +26,9 @@ namespace MonkeyHtmlParser
 
             var webNodes = new List<WebNode>();
 
+            if (nodes == null)
+                return webNodes;
+
             foreach (var htmlNode in nodes)
             {
                 var webNode = new WebNode
