@@ -1,0 +1,9 @@
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser/bin/Debug/netstandard2.0/MonkeyHtmlParser.deps.json
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser/bin/Debug/netstandard2.0/MonkeyHtmlParser.dll
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser/bin/Debug/netstandard2.0/MonkeyHtmlParser.pdb
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser/obj/Debug/netstandard2.0/MonkeyHtmlParser.csprojAssemblyReference.cache
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser/obj/Debug/netstandard2.0/MonkeyHtmlParser.csproj.CoreCompileInputs.cache
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser/obj/Debug/netstandard2.0/MonkeyHtmlParser.AssemblyInfoInputs.cache
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser/obj/Debug/netstandard2.0/MonkeyHtmlParser.AssemblyInfo.cs
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser/obj/Debug/netstandard2.0/MonkeyHtmlParser.dll
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser/obj/Debug/netstandard2.0/MonkeyHtmlParser.pdb

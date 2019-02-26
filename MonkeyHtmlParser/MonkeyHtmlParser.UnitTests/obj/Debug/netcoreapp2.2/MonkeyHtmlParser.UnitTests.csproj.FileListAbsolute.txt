@@ -1,0 +1,17 @@
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser.UnitTests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser.UnitTests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser.UnitTests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser.UnitTests/bin/Debug/netcoreapp2.2/MonkeyHtmlParser.UnitTests.deps.json
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser.UnitTests/bin/Debug/netcoreapp2.2/MonkeyHtmlParser.UnitTests.runtimeconfig.json
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser.UnitTests/bin/Debug/netcoreapp2.2/MonkeyHtmlParser.UnitTests.runtimeconfig.dev.json
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser.UnitTests/bin/Debug/netcoreapp2.2/MonkeyHtmlParser.UnitTests.dll
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser.UnitTests/bin/Debug/netcoreapp2.2/MonkeyHtmlParser.UnitTests.pdb
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser.UnitTests/bin/Debug/netcoreapp2.2/MonkeyHtmlParser.dll
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser.UnitTests/bin/Debug/netcoreapp2.2/MonkeyHtmlParser.pdb
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser.UnitTests/obj/Debug/netcoreapp2.2/MonkeyHtmlParser.UnitTests.csprojAssemblyReference.cache
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser.UnitTests/obj/Debug/netcoreapp2.2/MonkeyHtmlParser.UnitTests.csproj.CoreCompileInputs.cache
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser.UnitTests/obj/Debug/netcoreapp2.2/MonkeyHtmlParser.UnitTests.AssemblyInfoInputs.cache
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser.UnitTests/obj/Debug/netcoreapp2.2/MonkeyHtmlParser.UnitTests.AssemblyInfo.cs
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser.UnitTests/obj/Debug/netcoreapp2.2/MonkeyHtmlParser.UnitTests.csproj.CopyComplete
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser.UnitTests/obj/Debug/netcoreapp2.2/MonkeyHtmlParser.UnitTests.dll
+/Users/carsons/Repositories/MonkeyHtmlParser/MonkeyHtmlParser/MonkeyHtmlParser.UnitTests/obj/Debug/netcoreapp2.2/MonkeyHtmlParser.UnitTests.pdb
