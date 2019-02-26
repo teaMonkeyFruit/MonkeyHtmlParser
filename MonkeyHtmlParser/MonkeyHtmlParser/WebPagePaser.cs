@@ -35,6 +35,8 @@ namespace MonkeyHtmlParser
                     Name = htmlNode.Name,
                     Text = htmlNode.InnerText
                 };
+                
+                webNodes.Add(webNode);
             }
 
             return webNodes;
